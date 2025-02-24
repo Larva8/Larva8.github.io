@@ -42,7 +42,7 @@ layout: home
     - Hidden Markov Model 隐马尔可夫模型
     - K-nearest neighbor K-近邻算法
     - Naive Bayes 朴素贝叶斯模型
-- **Algorithm：**通常称之为算法，其为解决问题或完成特定任务所用到的逻辑和规则，可以认为是实现模型的手段。算法与模型是紧密结合的，算法驱动模型的训练，而模型依赖算法来实现其价值。
+- **Algorithm:** 通常称之为算法，其为解决问题或完成特定任务所用到的逻辑和规则，可以认为是实现模型的手段。算法与模型是紧密结合的，算法驱动模型的训练，而模型依赖算法来实现其价值。
 
 ### *Getting Started*
 1. **Document your work**

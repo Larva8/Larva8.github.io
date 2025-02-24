@@ -1,6 +1,5 @@
 ---
 layout: home
-title: 张剑韬的个人主页
 ---
 
 # 张剑韬的个人主页 - *Zhang Jiantao's Personal Homepage*
